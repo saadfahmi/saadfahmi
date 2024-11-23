@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saadfahmi?tab=repositories]
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/saadfahmi?tab=repositories) section.
 
 - 💬 Ask me about **C,HMTL**
 
